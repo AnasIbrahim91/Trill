@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "848804332390",
+    "firebase_url": "https://trill-8aa7b.firebaseio.com",
+    "project_id": "trill-8aa7b",
+    "storage_bucket": "trill-8aa7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848804332390:android:53f1d788b92029ce",
+        "android_client_info": {
+          "package_name": "android.trill.com.trill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848804332390-n8ob2mkqd7qkhf32v064ise7kmqddh47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.trill.com.trill",
+            "certificate_hash": "a80edf3bb78ecd69875d41330782f27a2cb66e9e"
+          }
+        },
+        {
+          "client_id": "848804332390-j2nn4n7kt3norn4p2vg8g5gi95n90g66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVPpjViRcozY98bQwwnlCXT5fkKatyPXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848804332390-j2nn4n7kt3norn4p2vg8g5gi95n90g66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
